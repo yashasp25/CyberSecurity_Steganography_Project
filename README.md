@@ -1,6 +1,6 @@
 **Code Explanation**
 The script uses the OpenCV library for image manipulation.
-The original image, "mypic.jpg," is loaded, and the user is prompted to input a secret message and password.
+The original image, "sanji.jpg," is loaded, and the user is prompted to input a secret message and password.
 Each character in the message is encrypted and embedded in the image pixels.
 The resulting image, "Encryptedmsg.jpg," is displayed.
 To decrypt the message, the user must enter the correct password, and the script extracts the hidden information.
